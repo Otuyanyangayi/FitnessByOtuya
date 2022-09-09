@@ -15,10 +15,19 @@ Back-End Link; https://github.com/Otuyanyangayi/FitnessbyOtuya-backend
 * Custom API 
 
 # MVP
-* The user can see all the routines and meals the have added.
-* The user can add more routines and meals 
-* the user can delete routines and meals.
-* Bonus: the user can toggle between dark mode and light mode.
+### Routines
+* The user can see all the routines they added.
+* The user can add more routines 
+* the User can see the details of a specific routine 
+* the User can delete the routines
+
+### Meals
+* That user can see all the meals they added.
+* The user can add more meals 
+* The user can delete the meals.
+* the user can see the details of a specific meal
+
+ Bonus: the user can toggle between dark mode and light mode.
 
 
 # Contacts 
